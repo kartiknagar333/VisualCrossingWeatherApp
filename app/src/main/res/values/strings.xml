@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="none"> </string>
+    <string name="clickme">ClickMe</string>
+    <string name="enter_a_location">Enter a Location</string>
+    <string name="inputtextdesc">For US locations, enter as \'City\', or \'City, State\'\n\nFor international locations enter as \'City, Country\'</string>
+    <string name="hinttxt">City, State or Country</string>
+</resources>
