@@ -29,10 +29,15 @@ The **Visual Crossing Weather App** provides a comprehensive weather service, pu
 - **View Binding** to access and manipulate UI components.
 - **Gradients** for temperature-based background colors.
 
-## API Usage
+## Setup
 The app pulls weather data from the Visual Crossing Weather API. You need to set up a free account to get your API key. (https://www.visualcrossing.com/)
-- Replace [location] with a city name (e.g., "Chicago, IL") or latitude/longitude.
-- Replace [YOUR_API_KEY] with your personal API key.
+- Replace [API_KEY] with your personal API key.
+  
+```bash
+public class WeatherAPI {
+private static final String BASE_URL = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline";
+    private static final String API_KEY = "your api key goes here";
+```
 
 ## Screenshots
 - **HomeActivity:**
