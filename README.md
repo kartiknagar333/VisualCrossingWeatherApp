@@ -30,8 +30,8 @@ The **Visual Crossing Weather App** provides a comprehensive weather service, pu
 - **Gradients** for temperature-based background colors.
 
 ## Setup
-The app pulls weather data from the Visual Crossing Weather API. You need to set up a free account to get your API key. (https://www.visualcrossing.com/)
-- Replace [API_KEY] with your personal API key.
+   - Visit [NewsAPI.org](https://newsapi.org/) to register and get your API key. 
+   - Assign "your api key " to API_KEY variable  [WeatherAPI.java](app/src/main/java/com/example/assignment_4/API/WeatherAPI.java) with your actual API key.
   
 ```bash
 public class WeatherAPI {
