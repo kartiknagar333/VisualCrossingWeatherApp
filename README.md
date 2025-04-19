@@ -35,3 +35,28 @@ The app pulls weather data from the Visual Crossing Weather API. You need to set
 - Replace [YOUR_API_KEY] with your personal API key.
 
 ## Screenshots
+- **HomeActivity:**
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6a916427-6a6a-48d4-bdd7-8ecf117f3c65" alt="Home" width="336" height="748" hspace = "10px"/>
+
+  <img src="https://github.com/user-attachments/assets/498c91e6-2d30-473b-9963-d792a7baf77f" alt="Home" width="336" height="748" />
+</div>
+<br>
+
+- **SearchCityDialog:** To get weather details 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/8e8d7aed-9efa-4587-b1b6-30c576813305" alt="Home" width="336" height="748"/>
+</div>
+<br>
+
+- **ShareDialog:** To share weather deatils 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/da93ec55-786b-4056-af63-a701edec74c1" alt="Home" width="336" height="748"/>
+</div>
+<br>
+
+- **15-DayWeatherForecast:**
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/489081d4-0ea9-4cb9-a0ad-5a0491ff9bd8" alt="Home" width="336" height="748"/>
+</div>
+<br>
