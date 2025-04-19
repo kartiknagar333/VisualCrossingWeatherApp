@@ -17,7 +17,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class WeatherAPI {
 
     private static final String BASE_URL = "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline";
-    private static final String API_KEY = "PVFJTKK6D42AFW5NHZURFSS3Z";  // Replace with your actual API key
+    private static final String API_KEY = "";  // Replace with your actual API key
     private final Context context;
 
     public WeatherAPI(Context context) {
