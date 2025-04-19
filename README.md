@@ -41,7 +41,7 @@ private static final String BASE_URL = "https://weather.visualcrossing.com/Visua
 
 ## Download APK for Testing
 You can download the APK file for testing from the release below:
-- [Download v1.0 Testing APK](https://github.com/your-username/your-repository/releases/tag/v1.0-test)
+- [Download v1.0 Testing APK](https://github.com/kartiknagar333/VisualCrossingWeatherApp/releases/tag/v1.0)
 <br>  
 
 ## Screenshots
